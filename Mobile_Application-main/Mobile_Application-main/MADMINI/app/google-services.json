@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198207056808",
+    "project_id": "catchy-craft",
+    "storage_bucket": "catchy-craft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198207056808:android:5b8630b291550a4ea50b9d",
+        "android_client_info": {
+          "package_name": "com.example.catchycraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198207056808-0iqmer4d6tscptacl9go73ukajdm03qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuRAyAhjFb9svM4wN4zCqh2iXnYlQ2zOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198207056808-0iqmer4d6tscptacl9go73ukajdm03qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
